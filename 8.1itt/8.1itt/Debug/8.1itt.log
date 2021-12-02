@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Користува\source\repos\ап\8.1itt\8.1itt\Source.cpp(11,41): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\Користува\source\repos\ап\8.1itt\8.1itt\Source.cpp(41,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  8.1itt.vcxproj -> C:\Users\Користува\source\repos\ап\8.1itt\Debug\8.1itt.exe

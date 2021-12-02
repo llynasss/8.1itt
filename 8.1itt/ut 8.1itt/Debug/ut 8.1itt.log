@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  ut 8.1itt.cpp
+C:\Users\Користува\source\repos\ап\8.1itt\8.1itt\Source.cpp(11,41): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+     Creating library C:\Users\Користува\source\repos\ап\8.1itt\Debug\ut 8.1itt.lib and object C:\Users\Користува\source\repos\ап\8.1itt\Debug\ut 8.1itt.exp
+  ut 8.1itt.vcxproj -> C:\Users\Користува\source\repos\ап\8.1itt\Debug\ut 8.1itt.dll
